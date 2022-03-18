@@ -1,0 +1,3 @@
+commodityID,commodityName,price,number,description,sellerID,addedDate,state
+M001,bingdundun,1000,10,NB66,U001,2022-03-17-22:00:27,removed
+M002,jinianbi,200,30,nice!,U001,2022-03-17-22:02:50,onsale

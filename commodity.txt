@@ -1,0 +1,3 @@
+userID,username,password,phoneNumber,address,balance,userState
+U001,liu,123,155555,nanjing,50000,active
+U002,xiang,123,1888,ningxia,6000,inactive
